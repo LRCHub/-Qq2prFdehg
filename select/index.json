@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "You're Mine",
+  "base_artist": "Vestia Zeta",
+  "createdAt": "2025-12-26T02:35:58.496097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm So Blessed You're Mine",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/01_I'm_So_Blessed_You're_Mine_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You're Mine",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/02_You're_Mine_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're Mine Tonight",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/03_You're_Mine_Tonight_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're Mine",
+      "artist": "Phantogram",
+      "has_synced": true,
+      "path": "select/04_You're_Mine_Phantogram.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby You're Mine",
+      "artist": "Mano Negra",
+      "has_synced": true,
+      "path": "select/05_Baby_You're_Mine_Mano_Negra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby You're Mine",
+      "artist": "BASIA",
+      "has_synced": true,
+      "path": "select/06_Baby_You're_Mine_BASIA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby You're Mine",
+      "artist": "Basia",
+      "has_synced": true,
+      "path": "select/07_Baby_You're_Mine_Basia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're Mine, You",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/08_You're_Mine,_You_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Now You're Mine",
+      "artist": "Helen Terry",
+      "has_synced": false,
+      "path": "select/09_Now_You're_Mine_Helen_Terry.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Because Youre Mine",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/10_Because_Youre_Mine_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Until You're Mine",
+      "artist": "Demi Lovato",
+      "has_synced": false,
+      "path": "select/11_Until_You're_Mine_Demi_Lovato.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Until You're Mine",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/12_Until_You're_Mine_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You're Mine",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/13_You're_Mine_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Believe You're Mine",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/14_Believe_You're_Mine_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tell Me You're Mine",
+      "artist": "The Knack",
+      "has_synced": true,
+      "path": "select/15_Tell_Me_You're_Mine_The_Knack.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "As Long As You're Mine",
+      "artist": "Idina Menzel feat. Leo Norbert Butz",
+      "has_synced": true,
+      "path": "select/16_As_Long_As_You're_Mine_Idina_Menzel_feat._Leo_Norbert_Butz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "As Long As You're Mine (From \"Wicked\" Original Broadway Cast Recording\u00002003)",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/17_As_Long_As_You're_Mine_(From__Wicked__Original_Broadway_Cast_Recording\u00002003)_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "As Long as You're Mine",
+      "artist": "Stephen Schwartz",
+      "has_synced": false,
+      "path": "select/18_As_Long_as_You're_Mine_Stephen_Schwartz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You're Mine",
+      "artist": "Vestia Zeta",
+      "has_synced": false,
+      "path": "select/pl_01_You're_Mine_Vestia_Zeta.txt"
+    }
+  ]
+}
